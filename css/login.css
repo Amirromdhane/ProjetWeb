@@ -1,0 +1,71 @@
+body{background:url("../images/bg.png");
+margin: 5px;
+}
+
+.top-one {
+  height: 100px;
+}
+
+p{color: white;}
+
+
+.login-head h2{
+color: white;
+font-weight: bold;
+margin: 5px;
+}
+
+.create-account {
+  background: url("../images/bg.jpg");
+  width:38%;
+  height: 80%;
+  margin: 5px auto;
+  padding: 20px;  
+}
+.f
+{
+color: red;
+}
+.text 
+{
+background-color: transparent;
+border-color: white;
+border-width: 1px;
+margin: 5px;
+padding: 5px;
+width: 90%;
+height: 30px;
+color: white;
+}
+
+
+
+
+#login
+{
+  float: right;
+  width: 100px;
+  height: 40px;
+  background-color: #c0392b;
+  border: none;
+  color: white;
+  margin: 10px;
+  font-size: 20px;
+}
+
+.botom
+{
+  border-width: 2px;
+  border-color: white;
+}
+.botom h5
+{
+  margin: 20px;
+  font-size: large;
+  color: white;
+  margin-top: 50px;
+  
+
+
+
+}
